@@ -15,19 +15,19 @@
 ### 👉 Lenguajes de programación
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
   &emsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  	<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white">
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
- &emsp; 
+ &nbsp;
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
   </a>
-   &emsp; 
+   &nbsp; 
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
@@ -35,23 +35,23 @@
 
 ### 👉 Frontend Development
 <p align="left"> 
-  &emsp; 
+  &nbsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
-  &emsp;
+  &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
+   &nbsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-   &emsp;
+   &nbsp;
   <a href="https://angular.io/">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"/>
   </a>
-  &emsp;
+  &nbsp;
   <a href="https://material.angular.io/">
     <img alt="Angular Material" src="https://img.shields.io/badge/Angular%20Material-757575.svg?logo=angular&logoColor=white"/>
   </a>
@@ -83,9 +83,7 @@
 
 <br/>
 
-## 📊 Mi GitHub (Expandir para ver) 
-
-
+## 📊 Mi GitHub.
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
