@@ -1,7 +1,10 @@
 
 <h1 align="center">Hola, aquí Julieta Laplace <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Técnica+Universitaria+En+Programación+;Full+Stack+Developer;En%20constante%20aprendizaje%20<3&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Técnica+Universitaria+En+Programación+;Full+Stack+Developer;En%20constante%20aprendizaje%20<3&center=true&width=500&height=50&color=9b59b6">
+</a>
+
 </p>
 <hr/>
 <h4 align="center">Técnica universitaria en programación (UTNFRA). Actualmente estoy aprendiendo <strong>React</strong> y <strong>Node.js</strong>.  
