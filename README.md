@@ -16,19 +16,19 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  	<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">
+  	<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=.net&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
  &nbsp;
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
   </a>
    &nbsp; 
-  <a href="https://www.php.net/">
+  <a href="https://www.php.net/" style="text-decoration: none;">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
 </p>
@@ -36,23 +36,23 @@
 ### 👉 Frontend Development
 <p align="left"> 
   &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &nbsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
+  <a href="https://getbootstrap.com" target="_blank" style="text-decoration: none;"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
    &nbsp;
-  <a href="https://angular.io/">
+  <a href="https://angular.io/" style="text-decoration: none;">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://material.angular.io/">
+  <a href="https://material.angular.io/" style="text-decoration: none;">
     <img alt="Angular Material" src="https://img.shields.io/badge/Angular%20Material-757575.svg?logo=angular&logoColor=white"/>
   </a>
 
