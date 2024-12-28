@@ -1,10 +1,10 @@
 
 <h1 align="center">Hola, aquí Julieta Laplace <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Técnica+Universitaria+En+Programación+;Full+Stack+Developer;Enthusiast;En%20constante%20aprendizaje%20<3&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Técnica+Universitaria+En+Programación+;Full+Stack+Developer;En%20constante%20aprendizaje%20<3&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Técnica universitaria en progrmación (UTNFRA) con muchas ganas de aprender. Actualmente estoy aprendiendo <strong>React</strong> y <strong>Node.js</strong>.  
+<h4 align="center">Técnica universitaria en programación (UTNFRA) con muchas ganas de aprender. Actualmente estoy aprendiendo <strong>React</strong> y <strong>Node.js</strong>.  
   Soy una persona sociable, curiosa y (fun fact) además de programar soy trabajadora social, lo cual hace que cuente con excelentes <em>soft skills</em>. Me encanta trabajar en equipo y conectar con las personas.</h4>
 <br>
 
@@ -83,7 +83,7 @@
 
 <br/>
 
-## 📊 Mi GitHub (Expand to View) 
+## 📊 Mi GitHub (Expandir para ver) 
 
 
 <details> 
@@ -95,7 +95,6 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliLaplace&show_icons=true&locale=en&layout=compact&theme=algolia" alt="JuliLaplace" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
@@ -103,7 +102,7 @@
 <details>
   <summary><b>⚡ Actividad en GitHub</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Juieta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuliLaplace&custom_title=Julieta%20Laplace's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/JuliLaplace"><img alt="Juieta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuliLaplace&custom_title=Julieta%20Laplace's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
