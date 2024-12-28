@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Técnica+Universitaria+En+Programación+;Full+Stack+Developer;En%20constante%20aprendizaje%20<3&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Técnica universitaria en programación (UTNFRA) con muchas ganas de aprender. Actualmente estoy aprendiendo <strong>React</strong> y <strong>Node.js</strong>.  
+<h4 align="center">Técnica universitaria en programación (UTNFRA). Actualmente estoy aprendiendo <strong>React</strong> y <strong>Node.js</strong>.  
   Soy una persona sociable, curiosa y (fun fact) además de programar soy trabajadora social, lo cual hace que cuente con excelentes <em>soft skills</em>. Me encanta trabajar en equipo y conectar con las personas.</h4>
 <br>
 
@@ -19,15 +19,15 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
- 
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-
+ &emsp; 
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
   </a>
-  
+   &emsp; 
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
@@ -86,7 +86,7 @@
 ## 📊 Mi GitHub (Expandir para ver) 
 
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -96,7 +96,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliLaplace&show_icons=true&locale=en&layout=compact&theme=algolia" alt="JuliLaplace" height="192px"/>
   <br/>
   </p>
-</details>
+
 
 <br/>
 
