@@ -19,15 +19,15 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
-  &emsp;
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
+
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
   </a>
-  &emsp;
+  
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
@@ -96,15 +96,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliLaplace&show_icons=true&locale=en&layout=compact&theme=algolia" alt="JuliLaplace" height="192px"/>
   <br/>
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Actividad en GitHub</b></summary>
-  <br/>
-   <a href="https://github.com/JuliLaplace"><img alt="Juieta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuliLaplace&custom_title=Julieta%20Laplace's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 </details>
 
 <br/>
